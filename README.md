@@ -11,7 +11,7 @@
 
 ### 1. **Introdução aos Testes Automatizados**
 - [O que são testes automatizados?](./docs/1/1.1.md)
-- A importância dos testes automatizados no desenvolvimento de software.
+- [A importância dos testes automatizados no desenvolvimento de software.](./docs/1/1.2.md)
 - Diferença entre **testes manuais** e **testes automatizados**.
 
 ### 2. **Benefícios da Automação de Testes**
