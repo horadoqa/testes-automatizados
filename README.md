@@ -5,6 +5,10 @@
 ---
 -->
 
+<div align="center">
+    <img src="./images/automatizados.jpg">
+</div>
+
 ### 1. **Introdução aos Testes Automatizados**
 - O que são testes automatizados?
 - A importância dos testes automatizados no desenvolvimento de software.
