@@ -28,7 +28,8 @@
 - **Como usar testes automatizados**: Fluxo de trabalho, integração com CI/CD.
 
 ### 5. **Tipos de Testes Automatizados**
-- **Testes automatizados de software**: Como e quando utilizar para validar funcionalidades.
+- **Testes automatizados de software**: Testar o comportamento geral do software, incluindo a interface gráfica (UI).
+- **Testes automatizados de API**: Testar as interfaces de programação de aplicações.
 - **Testes automatizados para web**: Focando em testes de navegadores, UI e performance.
 - **Testes automatizados Python**: Exemplos práticos e bibliotecas como **unittest** e **pytest**.
 - **Testes automatizados JavaScript**: Frameworks e bibliotecas para testes em JavaScript.
@@ -42,6 +43,13 @@
 - **Ambientes locais vs. cloud**: Vantagens de usar ambientes de teste em nuvem.
 - Integração com serviços de CI/CD para execução contínua dos testes.
 
-### 8. **Conclusão**
+### 8. **Construção de Relatórios**
+- **Definir os objetivos do relatório**: Definir o objetivo principal e o público-alvo.
+- **Identificar os principais elementos do relatório**: Detalhamento do Relatório
+- **Ferramentas para gerar relatórios**: Utilização de ferramentas que colaboram com a contrução de um bom relatório
+- **Exemplo de Estrutura de Relatório**: Exemplo de um relatório.
+- **Boas práticas para um bom relatório**: Práticas que potencializam a execução de um bom relatório.
+
+### 9. **Conclusão**
 - Considerações finais sobre o uso de testes automatizados.
 - Como integrar os testes automatizados ao fluxo de trabalho de desenvolvimento ágil.
