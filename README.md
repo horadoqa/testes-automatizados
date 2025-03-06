@@ -38,6 +38,7 @@
 ### 6. **Ferramentas de Testes Automatizados**
 - **Ferramentas populares para testes automatizados**: Selenium, Cypress, Jest, Mocha, Robot Framework, Playwright, etc.
 - Como escolher a ferramenta certa para o seu projeto.
+- **Seletores**: Fundamentais para os testes automatizados
 
 ### 7. **Onde Executar os Testes Automatizados**
 - **Ambientes locais vs. cloud**: Vantagens de usar ambientes de teste em nuvem.
